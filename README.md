@@ -1,6 +1,6 @@
 # Hi there!
 My name is Georgiana, or Georgi for short, and I'm currently a second-year student at UBB CS, Cluj-Napoca. </br>
-Besides coding and exploring this vast field, I'm also a big fan of travelling, cycling and discovering good music. ;)
+Besides coding and exploring the vast field of programming, I'm also a big fan of travelling, cycling and discovering good music. ;)
 
 ### ☾ About me
 ⟡ Passionate about computer networks, operating systems and cybersecurity! </br>
@@ -22,6 +22,6 @@ Besides coding and exploring this vast field, I'm also a big fan of travelling, 
 ![Maple](https://img.shields.io/badge/Maple-D22128?style=for-the-badge&logo=maple&logoColor=white)
 
 ### ☾ A little something
-Leaving this ';' here, in case anybody forgets it ;)
+Leaving this ';' here, just in case anybody forgets it ;)
 
 ---
