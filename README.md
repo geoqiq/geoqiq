@@ -1,6 +1,6 @@
 # Hi there!
-My name is Georgiana, or Georgi for short, and I'm currently a second-year student at UBB CS, Cluj-Napoca. </br>
-Besides coding and exploring the vast field of programming, I'm also a big fan of travelling, cycling and discovering good music. ;)
+My name is Georgiana, or Georgi for short, and I'm currently a second-year Comp-Sci student at BBU, Cluj-Napoca. </br>
+Besides coding and exploring the vast field of programming, I'm also a big fan of travelling, cycling and discovering good music. :)
 
 ### ☾ About me
 ⟡ Passionate about computer networks, operating systems and cybersecurity! </br>
