@@ -22,6 +22,6 @@ Besides coding and exploring the vast field of programming, I'm also a big fan o
 ![Maple](https://img.shields.io/badge/Maple-D22128?style=for-the-badge&logo=maple&logoColor=white)
 
 ### ☾ A little something
-Leaving this ';' here, just in case anybody forgets it ;)
+fortune | cowsay
 
 ---
