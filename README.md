@@ -62,8 +62,6 @@
 
 ### 📫 Let's Connect
 
-### 📫 Let's Connect
-
 <p>
   <a href="www.linkedin.com/in/georgiana-asandei" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
