@@ -63,7 +63,7 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/georgiana-asandei" target="_blank">
+  <a href="https://www.linkedin.com/in/georgiana-asandei/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/geoqiq" target="_blank">
