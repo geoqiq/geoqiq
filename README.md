@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Georgi</h1>
 <h3 align="center">Your regular coding enthusiast :)</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20Developer;Systems%20and%20Low-level%20Programmer;Database%20Nerd;RPC%20and%20Networking%20Geek;Always%20Learning%20New%20Tech!&center=true&width=650&height=45">
-</p>
-
 ---
 
 ### 🧠 About Me
