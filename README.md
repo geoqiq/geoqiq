@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Georgi</h1>
-<h3 align="center">Your regular coding enthusiast :)</h3>
+<h3 align="center">Your local curious coder :)</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Capsula Culturala**, a project by **Romanian Roots**
 - 🌱 I’m currently learning **Next.js**
-- ⚡ Always curious about anything computer science related!
+- 🔮 When in doubt, try “fortune | cowsay”
 
 ---
 
@@ -51,27 +51,6 @@
   <img src="https://img.shields.io/badge/-RPC-8E44AD?style=flat" />
   <img src="https://img.shields.io/badge/-ProtoBuf-272727?style=flat" />
 </p>
-
----
-
-### 🧠 A little something
-
-> “fortune | cowsay”
-
----
-
-### 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/georgiana-asandei/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-  <a href="https://github.com/geoqiq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
